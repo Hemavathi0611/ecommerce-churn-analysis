@@ -19,3 +19,13 @@ BUSINESS INSIGHTS
 9. Personalized promotions and loyalty rewards may help improve customer retention rates.
 
 10. Data-driven customer segmentation can support more effective business decision-making and revenue growth.
+
+
+### Revenue Trend Analysis
+
+The monthly revenue trend indicates that sales remained relatively stable between ₹0.45M and ₹0.65M during the first half of 2011.
+Revenue increased significantly from August 2011 onwards, showing strong business growth. The highest revenue was recorded in November 2011 at approximately ₹1.15M. 
+Revenue declined in December 2011, likely because the dataset contains only partial data for that month.
+
+**Key Insight:** 
+Revenue showed a steady upward trend throughout 2011, peaking in November 2011 before declining in December due to incomplete monthly data.
