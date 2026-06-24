@@ -34,4 +34,8 @@ reports/
 Hemavathi N
 =======
 # E-Commerce-Customer-Churn-Retention-Analysis
+
+#dashbord of Power BI
+<img width="1918" height="1003" alt="image" src="https://github.com/user-attachments/assets/e07cdbae-14e0-4e6f-ac52-f04970e7c738" />
+
 >>>>>>> 65b0bd944c46ce8087f5c8d6240f99c1cfbb13bc
