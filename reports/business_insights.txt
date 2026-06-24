@@ -1,0 +1,21 @@
+BUSINESS INSIGHTS
+
+1. The United Kingdom contributes the highest share of revenue and represents the largest customer base.
+
+2. Total revenue generated during the analysis period was approximately £8.28 million.
+
+3. Customer retention declines significantly after the first month, with most cohorts retaining only 20–40% of customers in subsequent months.
+
+4. The December 2010 cohort demonstrated the strongest long-term retention performance.
+
+5. Customer churn increases over time, indicating the need for loyalty and retention programs.
+
+6. Cohort analysis revealed that a large percentage of customers do not make repeat purchases after their initial transactions.
+
+7. Retaining existing customers can significantly improve long-term revenue compared to acquiring new customers.
+
+8. RFM analysis can be used to identify high-value customers, loyal customers, and at-risk customers for targeted marketing campaigns.
+
+9. Personalized promotions and loyalty rewards may help improve customer retention rates.
+
+10. Data-driven customer segmentation can support more effective business decision-making and revenue growth.
